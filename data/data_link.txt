@@ -1,3 +1,3 @@
 Download corpus using ths link:
-https://drive.google.com/open?id=1ydYvtZvV8vJRjhsc_29KKmTrnRB_Na0e
+https://drive.google.com/drive/folders/1mbc89zbtuus1OTaA_BswTEKJcg4n4aT4?usp=sharing
 then unzip data.zip (2,8GB) in your data folder.
